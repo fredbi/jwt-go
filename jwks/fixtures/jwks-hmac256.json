@@ -1,0 +1,25 @@
+{
+  "keys": [
+    {
+      "kid": "0123456789",
+      "use": "sig",
+      "alg": "HS256",
+      "kty": "RSA",
+      "k": "NDU2Nzc"
+    },
+    {
+      "kid": "1234567890",
+      "use": "sig",
+      "alg": "HS256",
+      "kty": "RSA",
+      "k": "NDU2Nzg"
+    },
+    {
+      "kid": "1234567890",
+      "use": "other",
+      "alg": "HS256",
+      "kty": "RSA",
+      "k": "eHh4eHh4"
+    }
+  ]
+}

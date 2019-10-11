@@ -1,0 +1,32 @@
+{
+  "keys": [
+    {
+      "kid": "0123456789",
+      "kty": "oct",
+      "use": "sig",
+      "alg": "HS256",
+      "k": "NDU2Nzc"
+    },
+    {
+      "kid": "1234567890",
+      "kty": "oct",
+      "use": "sig",
+      "alg": "HS256",
+      "k": "NDU2Nzg"
+    },
+    {
+      "kid": "1234567890",
+      "kty": "oct",
+      "use": "other",
+      "alg": "HS256",
+      "k": "eHh4eHh4"
+    },
+    {
+      "kid": "123789",
+      "kty": "RSA",
+      "use": "sig",
+      "n": "9esawQmRj_gDk2ZgZXSgzF4WlqdlTer4kIjrOsnW1FM",
+      "e": "AQAB"
+    }
+  ]
+}

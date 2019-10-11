@@ -1,0 +1,3 @@
+{
+    "keys": [ {"kid": "123", "alg": "RSA256", "kty":"RSA","n":"9esawQmRj_gDk2ZgZXSgzF4WlqdlTer4kIjrOsnW1FM","e":"AQAB"} ]
+}
